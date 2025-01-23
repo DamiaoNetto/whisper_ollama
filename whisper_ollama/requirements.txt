@@ -1,0 +1,5 @@
+openai-whisper
+langchain_ollama
+langchain
+
+# Dependência externa necessária: FFmpeg (https://ffmpeg.org/download.html)
